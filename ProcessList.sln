@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessList", "ProcessList.csproj", "{9FA4A7D9-D18A-417E-9880-32A1FC733DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FA4A7D9-D18A-417E-9880-32A1FC733DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA4A7D9-D18A-417E-9880-32A1FC733DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA4A7D9-D18A-417E-9880-32A1FC733DC3}.Debug|x64.ActiveCfg = Release|x64
+		{9FA4A7D9-D18A-417E-9880-32A1FC733DC3}.Debug|x64.Build.0 = Release|x64
+		{9FA4A7D9-D18A-417E-9880-32A1FC733DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA4A7D9-D18A-417E-9880-32A1FC733DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FA4A7D9-D18A-417E-9880-32A1FC733DC3}.Release|x64.ActiveCfg = Release|x64
+		{9FA4A7D9-D18A-417E-9880-32A1FC733DC3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58A3FDC2-5C41-44A1-B53D-245404F18B9B}
+	EndGlobalSection
+EndGlobal
